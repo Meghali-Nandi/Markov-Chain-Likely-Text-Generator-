@@ -41,6 +41,13 @@ The idea is to get more likely sentences . To introduce determinsim in stochasti
 It should allow us to create context specific sentences from the ground truth i.e the corpus  
 but also have its own unique random sentences.
 
+### How to use
+
+`
+python markov_likely_path.py hamlet.txt
+`
+
+
 `
     log: this would show up if its a new file. A markov chain will be created and saved
     [========================================] 33475/33475 (100%)     0 to go
