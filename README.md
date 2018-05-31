@@ -43,12 +43,15 @@ but also have its own unique random sentences.
 
 ### How to use
 
-`
+```python
+
 python markov_likely_path.py hamlet.txt
-`
+
+```
 
 
-`
+```shell
+
     log: this would show up if its a new file. A markov chain will be created and saved
     [========================================] 33475/33475 (100%)     0 to go
     log:chain for  hamlet.txt  is created
@@ -56,4 +59,4 @@ python markov_likely_path.py hamlet.txt
     Likely hood sentences 2:  try, Directly seasons him to be
     Random sentence with biased probability:  You cannot be so. We will I cannot be, Till that Season comes it?    Ham. Indeed, indeed  Hor. Heauen and Religious feare it, you
     me to
-`
+```
