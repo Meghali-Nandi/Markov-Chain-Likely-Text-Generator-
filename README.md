@@ -41,6 +41,11 @@ The idea is to get more likely sentences . To introduce determinsim in stochasti
 It should allow us to create context specific sentences from the ground truth i.e the corpus  
 but also have its own unique random sentences.
 
+### Prerequisites
+
+1.  Python 3
+2.  numpy
+
 ### How to use
 
 ```python
