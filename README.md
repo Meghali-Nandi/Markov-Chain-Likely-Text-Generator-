@@ -60,3 +60,13 @@ python markov_likely_path.py hamlet.txt
     Random sentence with biased probability:  You cannot be so. We will I cannot be, Till that Season comes it?    Ham. Indeed, indeed  Hor. Heauen and Religious feare it, you
     me to
 ```
+
+```shell
+
+python markov*.py hamlet.txt
+
+Likely hood sentences 1:  Colours, and the
+Likely hood sentences 2:  bow them  Ham. I will speake no more then it selfe in my Lord, if not, Be wary eye looke where 'tis so, please him. This must tell vs where 'tis so, When thou hast strooke
+Random sentence with biased probability:  Houres     Ham. I shall not  Ham. Neuer alone my Lord, the crowing of this Pearle is that? Being a paire of England   King.
+
+```
